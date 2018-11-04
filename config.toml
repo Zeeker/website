@@ -40,9 +40,14 @@ paginate = 20
     avatarURL = "images/avatar.png"
     thumbnail = "images/tn.png"
 
-    footerContent = "I solve problems"
-    # fixedbarContent = "Do you want to know me more private?→"
-    # fixedbarContentAfter = "Thank You! Please share it if you like it→"
+    footerContent = " "
+    # footerContent = "See you around 👋"
+    fixedbarContent = "I solve problems"
+    # fixedbarContentAfter = ""
+    privateContent = false
+
+    # Other
+    disqusShortname = ""
 
     hideCredits = false
     hideCopyright = false
