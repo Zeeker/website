@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://saschawolf.me/"
 languageCode = "en-us"
 defaultContentLanguage = "en" # The default content language.
 title = "Sascha Wolf"
@@ -6,10 +6,10 @@ theme = "coder-portfolio"
 paginate = 20
 
 # Menu links
-[[menu.main]]
-    name = "Blog"
-    weight = 1
-    url  = "posts"
+# [[menu.main]]
+#     name = "Blog"
+#     weight = 1
+#     url  = "posts"
 [[menu.main]]
     name = "About"
     weight = 2
@@ -32,7 +32,7 @@ paginate = 20
 # Theme Parameters
 [params]
     author = "Sascha Wolf"
-    info = "FULLSTACK ENGINEER"
+    info = "FULL STACK ENGINEER"
     description = "Sascha Wolf's personal website"
     keywords = "blog,developer,personal"
 
