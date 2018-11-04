@@ -1,6 +1,6 @@
 FROM alpine:3.7 as build
 
-RUN apk --update add curl bash git
+RUN apk --update add curl bash git openssh
 
 ENV HUGO_VERSION 0.50
 ENV HUGO_DL https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_${HUGO_VERSION}_Linux-64bit.tar.gz
@@ -10,7 +10,7 @@ COPY . /app
 WORKDIR /app
 
 ENV THEME=coder-portfolio
-ENV THEME_REPO=git@github.com:Zeeker/hugo-coder-portfolio.git
+ENV THEME_REPO=https://github.com/Zeeker/hugo-coder-portfolio.git
 RUN rm -rf themes/${THEME}
 RUN git clone --depth=1 ${THEME_REPO} themes/${THEME}
 
