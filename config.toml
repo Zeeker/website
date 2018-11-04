@@ -28,6 +28,10 @@ paginate = 20
     name = "LinkedIn"
     weight = 3
     url = "https://www.linkedin.com/in/swolfdev/"
+[[params.social]]
+    name = "Xing"
+    weight = 4
+    url = "https://www.xing.com/profile/Sascha_Wolf45"
 
 # Theme Parameters
 [params]
