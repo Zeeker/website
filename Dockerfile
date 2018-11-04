@@ -8,7 +8,12 @@ RUN curl -fsSL ${HUGO_DL} | tar xvz -C /usr/local/bin
 
 COPY . /app
 WORKDIR /app
-RUN git submodule update --init
+
+ENV THEME=coder-portfolio
+ENV THEME_REPO=git@github.com:Zeeker/hugo-coder-portfolio.git
+RUN rm -rf themes/${THEME}
+RUN git clone --depth=1 ${THEME_REPO} themes/${THEME}
+
 RUN hugo
 
 FROM scratch as deploy
