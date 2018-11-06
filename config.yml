@@ -1,0 +1,119 @@
+baseURL: 'https://saschawolf.me/'
+theme: tranquilpeak
+
+title: Sascha Wolf
+description: I solve problems
+paginate: 7
+canonifyURLs: true
+
+# Language
+languageCode: en-us
+defaultContentLanguage: en-us
+
+permalinks:
+  post: '/:year/:month/:slug/'
+
+author:
+  name: Sascha Wolf
+  bio: I solve problems
+  job: Full Stack Engineer
+  location: 'Cologne, Germany'
+  gravatarEmail: swolf.dev@gmail.com
+  twitter: ZeekerDev
+
+params:
+  clearReading: true
+  hierarchicalCategories: true
+  imageGallery: true
+
+  autoThumbnailImage: true
+  thumbnailImage: true
+  thumbnailImagePosition: bottom
+
+  coverImage: cover-blur.jpg
+  favicon: /images/favicon.ico
+
+  sidebarBehavior: 2
+  syntaxHighlighter: highlight.js
+
+  header:
+    rightLink:
+      class: ''
+      icon: ''
+      url: '/#about'
+
+  sharingOptions:
+    - name: Facebook
+      icon: fa-facebook-official
+      url: 'https://www.facebook.com/sharer/sharer.php?u=%s'
+    - name: Twitter
+      icon: fa-twitter
+      url: 'https://twitter.com/intent/tweet?text=%s'
+    - name: Google+
+      icon: fa-google-plus
+      url: 'https://plus.google.com/share?url=%s'
+    - name: Reddit
+      icon: fa-reddit
+      url: 'http://www.reddit.com/submit?url=%s'
+
+menu:
+  main:
+    - weight: -150
+      identifier: home
+      name: Home
+      pre: <i class="sidebar-button-icon fa fa-lg fa-home"></i>
+      url: /
+    - weight: -140
+      identifier: categories
+      name: Categories
+      pre: <i class="sidebar-button-icon fa fa-lg fa-bookmark"></i>
+      url: /categories
+    - weight: -130
+      identifier: tags
+      name: Tags
+      pre: <i class="sidebar-button-icon fa fa-lg fa-tags"></i>
+      url: /tags
+    - weight: -120
+      identifier: archives
+      name: Archives
+      pre: <i class="sidebar-button-icon fa fa-lg fa-archive"></i>
+      url: /archives
+    - weight: -110
+      identifier: about
+      name: About
+      pre: <i class="sidebar-button-icon fa fa-lg fa-question"></i>
+      url: '/#about'
+
+  links:
+    - weight: -150
+      identifier: stackoverflow
+      name: StackOverflow
+      pre: <i class="sidebar-button-icon fa fa-lg fa-stack-overflow"></i>
+      url: 'https://stackoverflow.com/users/story/2274224'
+    - weight: -140
+      identifier: github
+      name: Github
+      pre: <i class="sidebar-button-icon fa fa-lg fa-github"></i>
+      url: 'https://github.com/zeeker/'
+    - weight: -130
+      identifier: twitter
+      name: Twitter
+      pre: <i class="sidebar-button-icon fa fa-lg fa-twitter"></i>
+      url: 'https://twitter.com/ZeekerDev/'
+    - weight: -120
+      identifier: linkedin
+      name: LinkedIn
+      pre: <i class="sidebar-button-icon fa fa-lg fa-linkedin"></i>
+      url: 'https://www.linkedin.com/in/swolfdev/'
+    - weight: -110
+      identifier: xing
+      name: Xing
+      pre: <i class="sidebar-button-icon fa fa-lg fa-xing"></i>
+      url: 'https://www.xing.com/profile/Sascha_Wolf45'
+
+  misc:
+    - weight: -100
+      identifier: rss
+      name: RSS
+      pre: <i class="sidebar-button-icon fa fa-lg fa-rss"></i>
+      url: /index.xml
