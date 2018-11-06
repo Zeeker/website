@@ -21,6 +21,10 @@ author:
   gravatarEmail: swolf.dev@gmail.com
   twitter: ZeekerDev
 
+taxonomies:
+  category: categories
+  tag: tags
+
 params:
   description: I solve problems
   keywords:
