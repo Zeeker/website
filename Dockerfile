@@ -9,8 +9,8 @@ RUN curl -fsSL ${HUGO_DL} | tar xvz -C /usr/local/bin
 COPY . /app
 WORKDIR /app
 
-ENV THEME=coder-portfolio
-ENV THEME_REPO=https://github.com/Zeeker/hugo-coder-portfolio.git
+ENV THEME=coder
+ENV THEME_REPO=https://github.com/Zeeker/hugo-coder.git
 RUN rm -rf themes/${THEME}
 RUN git clone --depth=1 ${THEME_REPO} themes/${THEME}
 
