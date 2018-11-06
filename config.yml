@@ -1,0 +1,64 @@
+baseURL: 'https://saschawolf.me/'
+theme: coder
+
+title: Sascha Wolf
+
+canonifyurls: true
+paginate: 20
+
+# Other
+disqusShortname: ''
+
+# Language
+defaultContentLanguage: en
+languageCode: en
+
+# Code Highlight
+pygmentsStyle: b2
+pygmentsCodeFences: true
+pygmentsCodeFencesGuessSyntax: true
+pygmentsUseClasses: true
+
+menu:
+  main:
+    - weight: 10
+      name: Blog
+      url: 'https://blog.saschawolf.me/'
+    - weight: 20
+      name: About
+      url: about
+
+params:
+  author: Sascha Wolf
+  info: TSA / FULL STACK ENGINEER
+  description: I solve problems
+  keywords: 'elixir,full-stack,backend,frontend,cloud,web,developer'
+  avatarURL: images/avatar.png
+  thumbnail: images/tn.png
+
+  footerContent: I solve problems
+  hideCredits: false
+  hideCopyright: false
+  rtl: false
+
+  social:
+    - weight: 10
+      name: StackOverflow
+      icon: fab fa-stack-overflow fa-2x
+      url: 'https://stackoverflow.com/users/story/2274224'
+    - weight: 20
+      name: Github
+      icon: fab fa-github fa-2x
+      url: 'https://github.com/zeeker/'
+    - weight: 30
+      name: Twitter
+      icon: fab fa-twitter fa-2x
+      url: 'https://twitter.com/ZeekerDev/'
+    - weight: 40
+      name: LinkedIn
+      icon: fab fa-linkedin fa-2x
+      url: 'https://www.linkedin.com/in/swolfdev/'
+    - weight: 50
+      name: Xing
+      icon: fab fa-xing fa-2x
+      url: 'https://www.xing.com/profile/Sascha_Wolf45'
