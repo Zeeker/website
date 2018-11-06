@@ -2,7 +2,7 @@ baseURL: 'https://saschawolf.me/'
 theme: tranquilpeak
 
 title: Sascha Wolf
-description: I solve problems
+
 paginate: 7
 canonifyURLs: true
 
@@ -22,6 +22,19 @@ author:
   twitter: ZeekerDev
 
 params:
+  description: I solve problems
+  keywords:
+    - backend
+    - blog
+    - cloud
+    - elixir
+    - erlang
+    - frontend
+    - full-stack
+    - git
+    - serverless
+    - web
+
   clearReading: true
   hierarchicalCategories: true
   imageGallery: true
@@ -73,11 +86,11 @@ menu:
       name: Tags
       pre: <i class="sidebar-button-icon fa fa-lg fa-tags"></i>
       url: /tags
-    - weight: -120
-      identifier: archives
-      name: Archives
-      pre: <i class="sidebar-button-icon fa fa-lg fa-archive"></i>
-      url: /archives
+    # - weight: -120
+    #   identifier: archives
+    #   name: Archives
+    #   pre: <i class="sidebar-button-icon fa fa-lg fa-archive"></i>
+    #   url: /archives
     - weight: -110
       identifier: about
       name: About
