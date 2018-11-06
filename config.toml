@@ -6,13 +6,13 @@ theme = "coder-portfolio"
 paginate = 20
 
 # Menu links
-# [[menu.main]]
-#     name = "Blog"
-#     weight = 1
-#     url  = "posts"
+[[menu.main]]
+    name = "Blog"
+    weight = 1
+    url  = "https://blog.saschawolf.me/"
 [[menu.main]]
     name = "About"
-    weight = 2
+    weight = 10
     url = "about"
 
 # Social links
