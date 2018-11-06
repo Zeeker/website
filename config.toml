@@ -46,7 +46,7 @@ paginate = 20
 [params]
     author = "Sascha Wolf"
     info = "FULL STACK ENGINEER"
-    description = "Sascha Wolf's personal website"
+    description = "I solve problems"
     keywords = "blog,developer,personal"
 
     # Images
