@@ -30,7 +30,8 @@ menu:
 
 params:
   author: Sascha Wolf
-  info: TSA / FULL STACK ENGINEER
+  info: |-
+    DDD FAN / FULL-STACK DEV / TSA
   description: I solve problems
   keywords: 'elixir,full-stack,backend,frontend,cloud,web,developer'
   avatarURL: images/avatar.png
@@ -53,7 +54,7 @@ params:
     - weight: 30
       name: Twitter
       icon: fab fa-twitter fa-2x
-      url: 'https://twitter.com/ZeekerDev/'
+      url: 'https://twitter.com/wolf4earth/'
     - weight: 40
       name: LinkedIn
       icon: fab fa-linkedin fa-2x
