@@ -21,9 +21,9 @@ pygmentsUseClasses: true
 
 menu:
   main:
-    - weight: 10
-      name: Blog
-      url: 'https://blog.saschawolf.me/'
+    # - weight: 10
+    #   name: Blog
+    #   url: 'https://blog.saschawolf.me/'
     - weight: 20
       name: About
       url: about
