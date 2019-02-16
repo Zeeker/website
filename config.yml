@@ -24,7 +24,10 @@ menu:
     # - weight: 10
     #   name: Blog
     #   url: 'https://blog.saschawolf.me/'
-    - weight: 20
+    - weight: 50
+      name: Talks
+      url: talks
+    - weight: 100
       name: About
       url: about
 
@@ -41,6 +44,10 @@ params:
   hideCredits: false
   hideCopyright: false
   rtl: false
+
+  custom_css:
+    - css/responsive-youtube.css
+    - css/talks.css
 
   social:
     - weight: 10
