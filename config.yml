@@ -42,6 +42,10 @@ params:
   hideCopyright: false
   rtl: false
 
+  custom_css:
+    - css/responsive-youtube.css
+    - css/talks.css
+
   social:
     - weight: 10
       name: StackOverflow
