@@ -24,7 +24,10 @@ menu:
     # - weight: 10
     #   name: Blog
     #   url: 'https://blog.saschawolf.me/'
-    - weight: 20
+    - weight: 50
+      name: Talks
+      url: talks
+    - weight: 100
       name: About
       url: about
 

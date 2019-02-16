@@ -7,13 +7,15 @@ location = "Munich"
 eventName = "DACHFest 2018"
 eventLink = "https://dachfest.com/"
 youtube = "https://www.youtube.com/embed/K4idIHPys2Q"
-tags = ["2018", "compassion", "conference"]
+tags = ["2018", "conference", "compassion", "code reviews"]
 categories = []
 +++
 
 # Compassionate Coding: Being Humane in Tech
 
-In the Tech Industry we value efficiency and productivity. We try to keep our communication concise in an effort to be efficient. But are concise and efficient equivalent when it comes to communication? Or are we forgetting an important variable: humanity? One such strategy is Compassion.
+In the Tech Industry we value efficiency and productivity. We try to keep our communication concise in an effort to be efficient. But are concise and efficient equivalent when it comes to communication? Or are we forgetting an important variable: humanity? 
+
+Enter an alternative: Compassion.
 
 Tech is all about writing code, right? It’s about efficient solutions and productive teams. We worship Rockstar Devs, try to be agile and lean, all for the ultimate goal of delivering software faster and better. But are technical solutions all there is to it?
 
