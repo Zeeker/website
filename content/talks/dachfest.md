@@ -1,17 +1,15 @@
 +++ 
 draft = false
 date = 2018-11-11
-title = "DACHFest 2018 - Compassionate Coding"
+title = "Compassionate Coding: Being Humane in Tech"
 slug = "dachfest-2018-compassionate-coding" 
 location = "Munich"
-eventName = "DACHFest 2018"
+eventName = "DACHFest"
 eventLink = "https://dachfest.com/"
 youtube = "https://www.youtube.com/embed/K4idIHPys2Q"
 tags = ["2018", "conference", "compassion", "code reviews"]
 categories = []
 +++
-
-# Compassionate Coding: Being Humane in Tech
 
 In the Tech Industry we value efficiency and productivity. We try to keep our communication concise in an effort to be efficient. But are concise and efficient equivalent when it comes to communication? Or are we forgetting an important variable: humanity? 
 
