@@ -1,6 +1,9 @@
 ---
 title: "Impressum"
 date: 2019-03-27T10:14:52+01:00
+cssClasses:
+  - legal-text
+smallerHeader: true
 ---
 
 <a href="{{< relref "en.md" >}}">Impressum auf English / Imprint in English</a>

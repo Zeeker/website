@@ -48,6 +48,7 @@ params:
   rtl: false
 
   custom_css:
+    - css/legal.css
     - css/talks.css
 
   legal:

@@ -1,6 +1,9 @@
 ---
 title: "Imprint"
 date: 2019-03-27T10:10:14+01:00
+cssClasses:
+  - legal-text
+smallerHeader: true
 ---
 
 <a href="{{< relref "de.md" >}}">Imprint in German / Impressum auf Deutsch</a>

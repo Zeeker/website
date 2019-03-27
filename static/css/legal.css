@@ -1,0 +1,7 @@
+.legal-text {
+  word-break: break-word !important;
+}
+
+.legal-text * {
+  word-break: break-word !important;
+}
