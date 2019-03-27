@@ -51,6 +51,11 @@ params:
     - css/responsive-youtube.css
     - css/talks.css
 
+  legal:
+    - weight: 50
+      name: Imprint
+      url: imprint/en
+
   social:
     - weight: 10
       name: StackOverflow
