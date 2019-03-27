@@ -6,7 +6,7 @@ cssClasses:
 smallerHeader: true
 ---
 
-<a href="{{< relref "de.md" >}}">Privacy Statement in German / Datenschutzerklärung auf Deutsch</a>
+[Privacy Statement in German / Datenschutzerklärung auf Deutsch]({{< relref "de.md" >}})
 
 This data protection declaration clarifies the type, scope and purpose of the processing of personal data (hereinafter referred to as "data") in the context of the provision of our services and within our online offering and the websites, functions and content associated with it as well as external online presences, such as our Social Media Profile (hereinafter jointly referred to as "online offering"). With regard to the terms used, such as "processing" or "person responsible", we refer you to the definitions in Art. 4 of the Data Protection Basic Regulation (DSGVO).  
   
@@ -20,7 +20,7 @@ Helmers Kamp 74
 Germany (German)  
   
 E-mail address: swolf.dev@gmail.com  
-Link to the imprint: {{< ref "/imprint/en.md" >}}
+Link to the imprint: [{{< ref "/imprint/en.md" >}}]({{< ref "/imprint/en.md" >}})
 
 ### Types of data processed
 
