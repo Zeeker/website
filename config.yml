@@ -55,6 +55,9 @@ params:
     - weight: 50
       name: Imprint
       url: imprint/en
+    - weight: 100
+      name: Privacy
+      url: privacy/en
 
   social:
     - weight: 10
