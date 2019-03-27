@@ -20,7 +20,7 @@ Helmers Kamp 74
 Germany (German)  
   
 E-mail address: swolf.dev@gmail.com  
-Link to the imprint: https://saschawolf.me/imprint/de
+Link to the imprint: {{< ref "/imprint/en.md" >}}
 
 ### Types of data processed
 

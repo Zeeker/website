@@ -17,7 +17,7 @@ Helmers Kamp 74<br>
 Deutschland<br>
 <br>
 E-Mailadresse: swolf.dev@gmail.com<br>
-Link zum Impressum: https://saschawolf.me/imprint/de</span></p><h3 id="dsg-general-datatype">Arten der verarbeiteten Daten</h3><p>- Bestandsdaten (z.B., Personen-Stammdaten, Namen oder Adressen).<br>
+Link zum Impressum: {{< ref "/imprint/de.md" >}}</span></p><h3 id="dsg-general-datatype">Arten der verarbeiteten Daten</h3><p>- Bestandsdaten (z.B., Personen-Stammdaten, Namen oder Adressen).<br>
 - Kontaktdaten (z.B., E-Mail, Telefonnummern).<br>
 - Inhaltsdaten (z.B., Texteingaben, Fotografien, Videos).<br>
 - Nutzungsdaten (z.B., besuchte Webseiten, Interesse an Inhalten, Zugriffszeiten).<br>
