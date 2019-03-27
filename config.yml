@@ -48,7 +48,6 @@ params:
   rtl: false
 
   custom_css:
-    - css/responsive-youtube.css
     - css/talks.css
 
   legal:
