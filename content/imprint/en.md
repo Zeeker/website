@@ -44,5 +44,7 @@ works subject to copyright protection on our web pages requires the prior consen
 Individual reproductions of a work are only allowed for private use. 
 The materials from these pages are copyrighted and any unauthorized use may violate copyright laws.
 
+Favicon made by [Freepik](https://www.freepik.com/) from [www.flaticon.com](https://www.flaticon.com/) is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" 			    title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a>.
+
 <i>Quelle: </i><a href="http://www.translate-24h.de" target="_blank">translate-24h Übersetzungen</a> <br/><br/>
 
