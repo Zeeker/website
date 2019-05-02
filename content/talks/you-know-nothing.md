@@ -1,14 +1,17 @@
-+++
-draft = false
-date = 2019-01-19
-title = "You Know Nothing ... or do you?"
-slug = "you-got-this-2019-you-know-nothing"
-location = "London"
-eventName = "YouGotThis"
-eventLink = "https://2019.yougotthis.io/"
-tags = ["2019", "conference", "knowledge sharing", "compassion"]
-categories = []
-+++
+---
+draft: false
+date: 2019-01-19
+title: "You Know Nothing ... or do you?"
+slug: "you-got-this-2019-you-know-nothing"
+location: "London"
+eventName: "YouGotThis"
+eventLink: "https://2019.yougotthis.io/"
+slides:
+- "[Slides](https://speakerdeck.com/zeeker/you-know-nothing-dot-dot-dot-or-do-you-f03a1740-bcdb-4ff8-b064-e929080412e3)"
+- "[Slides + Speaker Notes](https://speakerdeck.com/zeeker/you-know-nothing-dot-dot-dot-or-do-you-speaker-notes)"
+tags: ["2019", "conference", "knowledge sharing", "compassion"]
+categories: []
+---
 
 Self-doubt. A feeling most of us are probably familiar with. And how can we not doubt yourself? We live in a globally connected world. A world in which we can access the knowledge of millions with a flick of a finger. Every minute more than 300 hours of video are being uploaded to YouTube. Wikipedia has around 5.5 million **english** articles alone and 45.5 million in total. StackOverflow - our all saviour - has approximately 16 million questions and 25 million answers.
 
