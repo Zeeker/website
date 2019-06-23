@@ -39,8 +39,8 @@ params:
     DDD FAN / FULL-STACK DEV / TSA
   description: I solve problems
   keywords: 'elixir,full-stack,backend,frontend,cloud,web,developer'
-  avatarURL: images/avatar.png
-  thumbnail: images/tn.png
+  avatarURL: images/avatar.webp
+  thumbnail: images/tn.webp
 
   footerContent: I solve problems
   hideCredits: false
