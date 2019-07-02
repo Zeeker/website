@@ -67,7 +67,7 @@ params:
     - weight: 20
       name: Github
       icon: fab fa-github fa-2x
-      url: 'https://github.com/zeeker/'
+      url: 'https://github.com/sascha-wolf/'
     - weight: 30
       name: Twitter
       icon: fab fa-twitter fa-2x
