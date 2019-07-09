@@ -1,8 +1,8 @@
 ---
 draft: false
 date: 2018-11-11
-title: "Compassionate Coding: Being Humane in Tech"
-slug: "dachfest-2018-compassionate-coding"
+title: "Being Humane in Tech"
+slug: "dachfest-2018-being-humane-in-tech"
 location: "Munich"
 eventName: "DACHFest"
 eventLink: "https://dachfest.com/"
