@@ -9,8 +9,8 @@ eventLink: "https://dachfest.com/"
 slides:
 - "[Slides - DACHFest](https://speakerdeck.com/saschawolf/compassionate-coding-being-more-humane-in-tech)"
 - "[Slides - Meetup](https://speakerdeck.com/saschawolf/being-more-humane-in-tech)"
-tags: ["2018", "conference", "compassion", "code reviews"]
-categories: []
+tags: ["2018", "compassion", "code reviews"]
+categories: ["conference"]
 ---
 
 In the Tech Industry we value efficiency and productivity. We try to keep our communication concise in an effort to be efficient. But are concise and efficient equivalent when it comes to communication? Or are we forgetting an important variable: humanity?
