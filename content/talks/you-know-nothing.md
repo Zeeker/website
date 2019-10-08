@@ -7,8 +7,8 @@ location: "London"
 eventName: "YouGotThis"
 eventLink: "https://2019.yougotthis.io/"
 slides:
-- "[Slides](https://speakerdeck.com/zeeker/you-know-nothing-dot-dot-dot-or-do-you-f03a1740-bcdb-4ff8-b064-e929080412e3)"
-- "[Slides + Speaker Notes](https://speakerdeck.com/zeeker/you-know-nothing-dot-dot-dot-or-do-you-speaker-notes)"
+- "[Slides](https://speakerdeck.com/saschawolf/you-know-nothing-dot-dot-dot-or-do-you-f03a1740-bcdb-4ff8-b064-e929080412e3)"
+- "[Slides + Speaker Notes](https://speakerdeck.com/saschawolf/you-know-nothing-dot-dot-dot-or-do-you-speaker-notes)"
 tags: ["2019", "conference", "knowledge sharing", "compassion"]
 categories: []
 ---

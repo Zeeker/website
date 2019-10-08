@@ -7,8 +7,8 @@ location: "Munich"
 eventName: "DACHFest"
 eventLink: "https://dachfest.com/"
 slides:
-- "[Slides - DACHFest](https://speakerdeck.com/zeeker/compassionate-coding-being-more-humane-in-tech)"
-- "[Slides - Meetup](https://speakerdeck.com/zeeker/being-more-humane-in-tech)"
+- "[Slides - DACHFest](https://speakerdeck.com/saschawolf/compassionate-coding-being-more-humane-in-tech)"
+- "[Slides - Meetup](https://speakerdeck.com/saschawolf/being-more-humane-in-tech)"
 tags: ["2018", "conference", "compassion", "code reviews"]
 categories: []
 ---
