@@ -1,6 +1,5 @@
 {
     "name": "website",
-    "alias": "saschawolf.me",
     "build": {
         "env": {
             "HUGO_VERSION": "0.61.0"
