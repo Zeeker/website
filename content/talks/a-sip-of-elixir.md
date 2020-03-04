@@ -4,7 +4,7 @@ date: 2019-10-01
 title: "A Sip of Elixir"
 slug: "a-sip-of-elixir"
 location: "Cologne"
-eventName: "Meetup - Lambda Cologne"
+eventName: "Meetup"
 eventLink: "https://www.meetup.com/de-DE/lambda-cologne/events/264935203/"
 slides:
 - "[Slides](https://speakerdeck.com/saschawolf/a-sip-of-elixir)"
