@@ -1,5 +1,5 @@
 {
   "scripts": {
-    "build": "git submodule update --init --recursive && hugo --gc"
+    "build": "bin/build"
   }
 }

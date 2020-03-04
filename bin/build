@@ -1,0 +1,12 @@
+#!/bin/bash -eu
+
+THEME_NAME="coder"
+THEME_URL="https://github.com/sascha-wolf/hugo-coder.git"
+
+echo "Setup theme"
+rm -rf "themes/$THEME_NAME"
+git clone "$THEME_URL" "themes/$THEME_NAME"
+
+echo
+echo "Build Hugo site ..."
+hugo --gc
