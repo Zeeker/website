@@ -1,6 +1,9 @@
 {
-    "alias": "saschawolf.me",
     "name": "website",
-    "type": "static",
-    "version": 1
+    "alias": "saschawolf.me",
+    "build": {
+        "env": {
+            "HUGO_VERSION": "0.61.0"
+        }
+    }
 }
