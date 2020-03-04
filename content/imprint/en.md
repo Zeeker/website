@@ -9,19 +9,19 @@ smallerHeader: true
 <a href="{{< relref "de.md" >}}">Imprint in German / Impressum auf Deutsch</a>
 
 <h2>Information in accordance with &sect; 5 TMG</h2>
-Sascha Wolf<br/>
-c/o Postflex #362<br/>
-Helmers Kamp 74<br/>
-48249 Dülmen
+<p>Sascha Wolf<br />
+c/o Grosch Postflex #362<br />
+Emsdettener Straße 10<br />
+48268 Greven</p>
 
 <h2>Contact Information</h2>
 E-Mail: <a href="mailto:swolf.dev@gmail.com">swolf.dev@gmail.com</a>
 
 <h2>Responsible for content in accordance with &sect; 55 parag. 2 RStV</h2>
 <p>Sascha Wolf<br />
-c/o Postflex #362<br />
-Helmers Kamp 74<br />
-48249 D&uuml;lmen</p>
+c/o Grosch Postflex #362<br />
+Emsdettener Straße 10<br />
+48268 Greven</p>
 
 <h3>Accountability for content</h3>
 The contents of our pages have been created with the utmost care. However, we cannot guarantee the contents'
