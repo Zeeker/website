@@ -3,7 +3,7 @@ title: "About"
 date: 2018-11-04T23:28:06+01:00
 ---
 
-Sascha is a 28-year-old Software Developer from Cologne, Germany.
+Sascha is a 29-year-old Software Developer from Cologne, Germany.
 
 During his career he dabbled with a lot of things, over "classic" Java development, to mobile and responsive web apps, over to building large scalable and resilient backend systems.
 He prefers his programming languages functional and is deeply in love with the teachings of domain-driven design.
