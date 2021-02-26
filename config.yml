@@ -1,4 +1,4 @@
-baseURL: 'https://saschawolf.me/'
+baseURL: "https://saschawolf.me/"
 theme: coder
 
 title: Sascha Wolf
@@ -9,7 +9,7 @@ paginate: 20
 googleAnalytics: UA-129291125-2
 
 # Other
-disqusShortname: ''
+disqusShortname: ""
 
 # Language
 defaultContentLanguage: en
@@ -23,9 +23,6 @@ pygmentsUseClasses: true
 
 menu:
   main:
-    - weight: 10
-      name: Blog
-      url: 'https://blog.saschawolf.me/'
     - weight: 50
       name: Talks
       url: talks
@@ -38,7 +35,7 @@ params:
   info: |-
     DDD FAN / FULL-STACK DEV / TSA
   description: I solve problems
-  keywords: 'elixir,full-stack,backend,frontend,cloud,web,developer'
+  keywords: "elixir,full-stack,backend,frontend,cloud,web,developer"
   avatarURL: images/avatar.webp
   thumbnail: images/tn.webp
 
@@ -63,20 +60,20 @@ params:
     - weight: 10
       name: StackOverflow
       icon: fab fa-stack-overflow fa-2x
-      url: 'https://stackoverflow.com/users/story/2274224'
+      url: "https://stackoverflow.com/users/story/2274224"
     - weight: 20
       name: Github
       icon: fab fa-github fa-2x
-      url: 'https://github.com/sascha-wolf/'
+      url: "https://github.com/sascha-wolf/"
     - weight: 30
       name: Twitter
       icon: fab fa-twitter fa-2x
-      url: 'https://twitter.com/wolf4earth/'
+      url: "https://twitter.com/wolf4earth/"
     - weight: 40
       name: LinkedIn
       icon: fab fa-linkedin fa-2x
-      url: 'https://www.linkedin.com/in/swolfdev/'
+      url: "https://www.linkedin.com/in/swolfdev/"
     - weight: 50
       name: Xing
       icon: fab fa-xing fa-2x
-      url: 'https://www.xing.com/profile/Sascha_Wolf45'
+      url: "https://www.xing.com/profile/Sascha_Wolf45"
